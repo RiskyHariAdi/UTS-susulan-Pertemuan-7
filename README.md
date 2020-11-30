@@ -2,9 +2,9 @@
 
 ![logo](foto/logo.png)
 
-###NAMA  : RISKY HARIADI <br>
-###NIM   : 312010124 <br>
-###KELAS : TI.A1.20 <br>
+### NAMA  : RISKY HARIADI <br>
+### NIM   : 312010124 <br>
+### KELAS : TI.A1.20 <br>
 
 ![tugas7](foto/tugas7.png)
 
