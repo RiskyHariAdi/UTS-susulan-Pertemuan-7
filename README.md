@@ -1,9 +1,13 @@
 # UTS-susulan-Pertemuan-7
+
 ![logo](foto/logo.png)
-###NAMA  : RISKY HARIADI
-###NIM   : 312010124
-###KELAS : TI.A1.20
+
+###NAMA  : RISKY HARIADI <br>
+###NIM   : 312010124 <br>
+###KELAS : TI.A1.20 <br>
+
 ![tugas7](foto/tugas7.png)
+
 **Untuk mengerjakan soal diatas maka kita perlu memasukan atau menginput datanya terlebih dahulu baru setelah itu bisa terlihat data mana yang terbesar denagn syntax.** <br>
 
 ```python
