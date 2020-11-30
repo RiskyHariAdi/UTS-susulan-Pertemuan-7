@@ -8,7 +8,7 @@
 
 ![tugas7](foto/tugas7.png)
 
-**Untuk mengerjakan soal diatas maka kita perlu memasukan atau menginput datanya terlebih dahulu baru setelah itu bisa terlihat data mana yang terbesar denagn syntax.** <br>
+**Untuk mengerjakan soal diatas maka kita perlu memasukan atau menginput datanya terlebih dahulu baru setelah itu bisa terlihat data mana yang terbesar dengan syntax.** <br>
 
 ```python
 N=int(input("silahkan masukan jumlah bilangan ="))
